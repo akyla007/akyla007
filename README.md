@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil. Sou Akyla, um programador em constante desenvolvimento!
+## 🌱 Bem vindo ao meu perfil. Sou Akyla, um programador em constante desenvolvimento! 🌱
 <div align="center">
   <a href="https://github.com/akyla007">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akyla007&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
@@ -25,6 +25,6 @@
   
 <div>
 
-  ### Atualmente estou estudando desenvolvimento Web Front-End e Back-End, trabalho com ReactJS,ReactNative e NodeJS, entretanto também procuro entender outras áreas, como a área de inteligência artificial.
+  ### 🔅 Atualmente estou estudando desenvolvimento Web Front-End e Back-End, trabalho com ReactJS,ReactNative e NodeJS, entretanto também procuro entender outras áreas, como a área de inteligência artificial. 🔅
  
-  #### Qual duvida sobre mim pode entrar em contato pelo meu E-mail ou Whatsapp.
+  #### 🔸 Qual duvida sobre mim pode entrar em contato pelo meu E-mail ou Whatsapp.
