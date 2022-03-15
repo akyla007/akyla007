@@ -27,4 +27,4 @@
 
   ### Atualmente estou estudando desenvolvimento Web Front-End e Back-End, trabalho com ReactJS,ReactNative e NodeJS, entretanto também procuro entender outras áreas, como a área de inteligência artificial.
  
-  #### Qual duvida sobre mim pode entrar em contato comigo no meu E-mail ou Whatsapp.
+  #### Qual duvida sobre mim pode entrar em contato pelo meu E-mail ou Whatsapp.
