@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/akyla_aquino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:akylaaquino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/%C3%A1kyla-aquino-710b39171" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5588981904521&text=Akyla%20Aquino"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+  </a>
   
   ![Snake animation](https://github.com/akyla007/akyla007/blob/output/github-contribution-grid-snake.svg)
   
