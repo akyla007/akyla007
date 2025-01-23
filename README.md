@@ -25,6 +25,6 @@
   
 <div>
 
-  ### 🔅 Atualmente estou estudando desenvolvimento Web Front-End e Back-End, trabalho com ReactJS,ReactNative e NodeJS, entretanto, também procuro entender outras áreas, como a área de inteligência artificial. 🔅
+  ### 🔅 Atualmente estou atuando como Cientista de dados, trabalho com Python e modelagem de IA, também com experiência em desenvolvimento Web e Backend. 🔅
  
   #### 🔸 Qualquer duvida sobre mim pode entrar em contato pelo meu E-mail ou Whatsapp.
