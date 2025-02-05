@@ -43,14 +43,14 @@
 <div>
   <h2>Projetos em Destaque</h2>
   <ul>
-    <li>
-      <strong>Análise de desempenho em escolas:</strong> Modelo para prever qual escola o aluno deve ir ( Masculina, Feminina ou Mista ) dependendo da notas de avaliação dele.
-      <strong>Link:</strong> https://github.com/akyla007/Akyla_Aquino_Desafio
-    </li>
-    <li>
-      <strong>Modelo de regressão para previsão de preços de apartamentos em Nova York:</strong> Algoritmo para prever preços dependendo da região e outras variáveis em Nova York.
-      <strong>Link:</strong> https://github.com/akyla007/Desafio-Lighouse-2
-    </li>
+      <li>
+        <strong>Análise de Desempenho em Escolas:</strong> Desenvolvi um modelo preditivo que identifica a melhor opção de escola (Masculina, Feminina ou Mista) para o aluno, com base em seu desempenho nas         avaliações.  
+        <strong>🔗 <a href="https://github.com/akyla007/Akyla_Aquino_Desafio" target="_blank">Repositório</a></strong>
+      </li>
+      <li>
+        <strong>Modelo de Regressão para Previsão de Preços de Apartamentos em Nova York:</strong> Criei um algoritmo de regressão para estimar os preços de apartamentos considerando a região e outras               variáveis, auxiliando na tomada de decisões no mercado imobiliário.  
+        <strong>🔗 <a href="https://github.com/akyla007/Desafio-Lighouse-2" target="_blank">Repositório</a></strong>
+      </li>
   </ul>
 </div>
 
